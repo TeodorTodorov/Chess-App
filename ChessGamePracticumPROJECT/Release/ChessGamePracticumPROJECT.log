@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  Bishop.cpp
+  Board.cpp
+D:\Projects\Chess-App\ChessGamePracticumPROJECT\Board.cpp(166,10): warning C4101: 'temp': unreferenced local variable
+  ChessGamePracticumPROJECT.cpp
+  ConsoleView.cpp
+  Figure.cpp
+  Game.cpp
+  Horse.cpp
+  IBoard.cpp
+  IGame.cpp
+  King.cpp
+  Move.cpp
+  Pawn.cpp
+  Position.cpp
+  Queen.cpp
+  Rook.cpp
+  Square.cpp
+  View.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChessGamePracticumPROJECT.vcxproj -> D:\Projects\Chess-App\Release\ChessGamePracticumPROJECT.exe
